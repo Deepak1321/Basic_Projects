@@ -1,9 +1,30 @@
 # Basic_Projects
 
-# 1. Regression Model to Predict Cement Compressive Strength
+# 1. Classification Model to Identify Multiple Disease
+
+https://github.com/Deepak1321/Basic_Projects/blob/main/Classification_Model_to_Identify_Multiple_Disease_Project.ipynb
+
+## Tools and Library used
+1. Pandas
+2. RandomForestClassifier
+3. KNeighborsClassifier
+3. DecisionTreeClassifier
+
+## 
+
+# 2. Regression Model to Predict Cement Compressive Strength
+
+https://github.com/Deepak1321/Basic_Projects/blob/main/Regression_Model_to_Predict_Cement_Compressive_Strength_Project.ipynb
+
+## Tools and Library Used
+1. Pandas
+2. seaborn
+3. RandomForestClassifier
+
+
  
  
-# 2. Classification Model to Identify Employee Attrition
+# 3. Classification Model to Identify Employee Attrition
 
 Description of variables
 
@@ -43,6 +64,11 @@ Description of variables
 34. YEARS SINCE LAST PROMOTION	Numerical Value - LAST PROMOTION
 35. YEARS WITH CURRENT MANAGER	Numerical Value - YEARS SPENT WITH CURRENT MANAGER
 
+https://github.com/Deepak1321/Basic_Projects/blob/main/Classification_Model_to_Identify_Employee_Attrition_Project.ipynb
+
+## Tools and Library Used
+1. Pandas
+2. LinearRegression
 
 
-# 3. Classification Model to Identify Multiple Disease
+
