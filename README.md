@@ -1,9 +1,9 @@
 # Basic_Projects
 
-# Regression Model to Predict Cement Compressive Strength
+# 1. Regression Model to Predict Cement Compressive Strength
  
  
-# Classification Model to Identify Employee Attrition
+# 2. Classification Model to Identify Employee Attrition
 
 Description of variables
 
@@ -45,4 +45,4 @@ Description of variables
 
 
 
-# Classification Model to Identify Multiple Disease
+# 3. Classification Model to Identify Multiple Disease
