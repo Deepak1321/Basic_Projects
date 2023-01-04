@@ -26,6 +26,8 @@ https://github.com/Deepak1321/Basic_Projects/blob/main/Regression_Model_to_Predi
  
 # 3. Classification Model to Identify Employee Attrition
 
+https://github.com/Deepak1321/Basic_Projects/blob/main/Classification_Model_to_Identify_Employee_Attrition_Project.ipynb
+
 Description of variables
 
 1. AGE :	Numerical Value
@@ -63,8 +65,6 @@ Description of variables
 33. YEARS IN CURRENT ROLE	Numerical Value -YEARS IN 34. CURRENT ROLE
 34. YEARS SINCE LAST PROMOTION	Numerical Value - LAST PROMOTION
 35. YEARS WITH CURRENT MANAGER	Numerical Value - YEARS SPENT WITH CURRENT MANAGER
-
-https://github.com/Deepak1321/Basic_Projects/blob/main/Classification_Model_to_Identify_Employee_Attrition_Project.ipynb
 
 ## Tools and Library Used
 1. Pandas
